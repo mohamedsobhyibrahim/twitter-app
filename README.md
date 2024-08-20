@@ -1,5 +1,5 @@
 
-# Twitter App
+# Twitter Counter
 This repository contains an Android app built with a modular approach, following the principles of Clean Architecture and MVVM design pattern. The app utilizes various technologies and frameworks to provide a robust and efficient development environment.
 
 ## This project uses
